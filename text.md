@@ -89,6 +89,26 @@ git commit > git log
 
 now you can checkout main and find there is not change in main branch files. 
 
+in main branch
+*main 
+touch akash.txt //modifiying / add . / commit 
+
+git checkout testingGit
+akash.txt not exit here
 
 
+---------------------------------------------
+
+>>>>>>>>>>>>>Merge
+
+git checkout main
+*main
+git merge <branch name> //  git merge testingGit 
+	**open vim text editor
+	***simple give merge message or typw :q!
+
+git push origin main -u
+
+
+DONE.................................
 
