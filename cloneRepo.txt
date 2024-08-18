@@ -1,0 +1,14 @@
+-----------On web-----------
+
+copy exit repo link
+
+-----------on system-----------
+opne bash 
+git clong <link>
+git add.git .. ..
+
+
+
+IN GIT bash
+cd //  ****move directly to main path
+
