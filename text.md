@@ -76,7 +76,8 @@ git commit -m " commet"
 
 ---------------------------------------------
 
->>>>>>>>>>>>>Branch 
+> Branch 
+
 git branch testingGit //create branch
 git branch  // chekc how many branch you have
 git checkout testingGit //changing the branch from main to testingGit
@@ -112,3 +113,5 @@ git push origin main -u
 
 DONE.................................
 
+
+>IMP open Repo > Setting > Pages > Branch Main > /root > Save
